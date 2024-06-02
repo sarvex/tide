@@ -52,7 +52,7 @@ regex = "1.5.5"
 
 [dev-dependencies]
 async-std = { version = "1.6.5", features = ["unstable", "attributes"] }
-criterion = "0.3.3"
+criterion = "0.5.0"
 femme = "2.1.1"
 juniper = "0.14.2"
 kv-log-macro = "1.0.7"
