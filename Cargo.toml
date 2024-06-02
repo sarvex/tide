@@ -54,7 +54,7 @@ regex = "1.5.5"
 async-std = { version = "1.6.5", features = ["unstable", "attributes"] }
 criterion = "0.3.3"
 femme = "2.1.1"
-juniper = "0.14.2"
+juniper = "0.15.10"
 kv-log-macro = "1.0.7"
 lazy_static = "1.4.0"
 logtest = "2.0.0"
